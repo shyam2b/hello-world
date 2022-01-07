@@ -2,7 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <h2>Welcome here</h2>
-    <h3> Hello all </h3>
+    <h3> Hello all good day </h3>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
